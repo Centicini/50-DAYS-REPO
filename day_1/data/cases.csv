@@ -1,0 +1,7 @@
+case_id,age,sex,diagnosis,lesion_size_mm
+COO1,34,F,buruli_ulcer,22.5
+COO2,8,M,scabies,3.0
+COO3,abc,F,yaws,5.5
+COO4,51,M,leprosy,15.0
+COO5,27,F,malaria,0
+COO6,45,M,mycetoma,-4

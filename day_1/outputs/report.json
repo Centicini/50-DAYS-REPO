@@ -1,0 +1,14 @@
+{
+  "total_cases": 3,
+  "by_diagnosis": {
+    "buruli_ulcer": 1,
+    "scabies": 1,
+    "leprosy": 1
+  },
+  "mean_age": 31.0,
+  "rejected_rows": [
+    "line 4: COO3: age/size must be numbers (invalid literal for int() with base 10: 'abc')",
+    "line 6: COO5: unknown diagnosis 'malaria'",
+    "line 7: COO6: lesion size cannot be negative"
+  ]
+}
